@@ -1,0 +1,13 @@
+{
+  "name": "Secure Account from the bad User and locking them maximum login attempts and unlock them after a specific time",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies":{
+    "express": "~4.2.0",
+    "body-parser": "~1.0.0",
+	"mongoose" :"~4.7.7"
+  }
+}
